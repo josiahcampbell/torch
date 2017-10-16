@@ -40,7 +40,7 @@ defmodule Torch.Mixfile do
     [{:filtrex, "~> 0.3.0"},
      {:phoenix, "~> 1.2"},
      {:phoenix_html, "~> 2.9"},
-     {:ecto, "~> 2.1.2"},
+     {:ecto, "~> 2.2" },
      {:scrivener_ecto, ">= 1.2.1"},
      {:credo, "~> 0.5", only: [:dev, :test]},
      {:ex_doc, "~> 0.13", only: :dev}]
